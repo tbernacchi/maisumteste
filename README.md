@@ -21,12 +21,6 @@
   * [Offical Docs](https://www.ansible.com/products/awx-project)
   * [Official Github](https://github.com/ansible/awx)
 
-## Usage
-
-```bash
-ansible-playbook -i hosts tasks/main.yml
-```
-
 ## Author
 
 👤 **Tadeu Bernacchi**
